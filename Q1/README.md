@@ -4,6 +4,8 @@
 ## Security Practical Platform
 This is my own project in the first company aiming at automatically building a vulnerable lab for security practice in simple way using on-premise system. This project is written by Python, using SDK and Network framework to connect with each endpoint. The frontend customize from GNS3 web-client to able to call API server.
 
+*Noted: Architecture has been design to fit with resources, business of company in that time* 
+
 ![Complex topology](img/q1-2.png)
 
 We have 3 parts of this platform:
@@ -17,9 +19,6 @@ We have 3 parts of this platform:
 |![Automate boring stuff](img/q1-1.png)| 
 |:--:|
 |*Not waste time anymore remembering tons of command lines nor manual installation step*|
-<br/>
-
-*Noted I haven't evolved any kind of IaC tools or Configure Management tools yet because they didn't support well for platforms I used at this time* 
 <br/>
 
 ### System Diagram

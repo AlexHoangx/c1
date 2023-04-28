@@ -7,9 +7,9 @@ To prevent all of incident could happen to company website and the best experien
 
 | No| Performance               | Durability        | Security      |   |
 |---|---------------------------|-------------------|---------------|---|
-| 1 | Optimize everything       | High Availability | Monitor       |   |
-| 2 | Optimize database         | Fault Tolerance   | Alert         |   |
-| 3 | Handle workload           | Disaster Recovery | Action        |   |
+| 1.| Optimize everything       | High Availability | Monitor       |   |
+| 2.| Optimize database         | Fault Tolerance   | Alert         |   |
+| 3.| Handle workload           | Disaster Recovery | Action        |   |
 
 For example for the homepage of 2 last company. We use many different method to have the highest SLA/SLO:
 1. Performance:
