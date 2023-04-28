@@ -25,7 +25,7 @@ This project aiming for automate build a lab for security practice in simple way
 │   ├── images
 │   ├── js
 │   ├── index.html
-├── dist (or build
+├── dist (or build)
 ├── node_modules
 ├── package.json
 ├── package-lock.json 
