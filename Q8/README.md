@@ -5,7 +5,7 @@
 
 ## Kafka
 ---
-### I already implemented it for blockchain system, it's the best use-case for any kind of system that needs data streaming. Especially when we face with heavy workload system, Kafka easily manage millions messagees per second without any issue.
+### I already implemented it for blockchain system, it's the best use-case for any kind of system that needs data streaming. Especially when we face with heavy workload system, Kafka easily manage millions messages per second without any issue.
 </br>
 
 ## RabbitMQ
