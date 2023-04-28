@@ -2,9 +2,9 @@
 # Q1: Please share your github link and example projects that demonstrate your expertise
 
 ## Security Platform Provisioner
-This project aiming for automate build a lab for security practice in simple way using on-premise system. This project written by python, using SDK and Network framework to connect with each endpoint.
+This project aims at automately building a lab for security practice in simple way using on-premise system. This project is written by python, using SDK and Network framework to connect with each endpoint.
 
-*Noted I'm not evoled into any kind of IaC tools or Configure Management tools yet because they not good support for platforms I used at this time* 
+*Noted I haven't evole any kind of IaC tools or Configure Management tools yet because they didn't support well for platforms I used at this time* 
 <br/>
 
 ### Diagram
