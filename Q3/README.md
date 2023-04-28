@@ -4,4 +4,4 @@
 
 ![High level](Q3/img/Crawling_system.svg)
 
-### The flow is pretty simple and don't have much issue with low workload(few web page per day) But since we want to increase to massive crawl ()
+### The flow is pretty simple and there isn't much issue with low workload(few web page per day) But since we want to increase to massive crawl ()
