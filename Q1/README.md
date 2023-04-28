@@ -4,14 +4,17 @@
 ## Security Platform Provisioner
 This project aiming for automate build a lab for security practice in simple way using on-premise system. This project written by python, using SDK and Network framework to connect with each endpoint.
 
-*Noted I'm not evoled into any kind of IaC tools or Configure Management tools yet because they not good support for platforms I used at this time* 
+As we know GNS3 is a Networking Virtualization platform provide us environment to bring up a network same as in practice. 
+
+*Noted I'm not evolved into any kind of IaC tools or Configure Management tools yet because they not good support for platforms I used at this time* 
 <br/>
 
 ### Diagram
+![High level](img/Crawling_system.svg)
 
 <br/>
 
-### Struture of the project:
+### Structure of the project:
 ```
 ├── src
 │   ├── controller
@@ -33,5 +36,5 @@ This project aiming for automate build a lab for security practice in simple way
 ```
 <br/>
 
-### Techstack
-GNS3, QEMU, Python, Nodejs, 
+### TechStacks
+GNS3, QEMU, Python, Nodejs, NginX
