@@ -9,7 +9,7 @@
 
 ## Business logic
 ---
-### Developer expected for a pipeline could help them to setup NFT(Non Functional Test) and extendable to benchmark our website. They want to virtualize thousand of user access and use feature of our page in the same time, verify all of the features work well and test the durable of the system till it reach limit. 
+### Developers expect a pipeline that could help them setup NFT(Non Functional Test) and extendable to benchmark our website. They want to virtualize thousand of user access and use features of our page at the same time, verify that all of the features work well and test the durability of the system til it reaches limit. 
 </br>
 
 ### Platform/Tools/Framework: GKE, Java, Jmeter, Redis, Prometheus
