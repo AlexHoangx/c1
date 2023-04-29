@@ -2,7 +2,7 @@
 
 ## NPM/PIP for packaged tools
 ---
-### I've already built a CLI tool based on TypeScript. It's about helping developer reduce their time configuring kubernetes to switching between multiple cluster. We have several cluster across AWS and GCP so every time developer wants to use `kubectl` command they would take time to re-config parameter/config file point to new cluster again. We packed our source using npm so when new Developer join our team they just need to have an account to access our npm organization repository and install whole tool with single command `npm -g install <@org_name/tool_name>` 
+### I've already built a CLI tool based on TypeScript. It's about helping developer reduce their time configuring kubernetes to switching between multiple clusters. We have several clusters across AWS and GCP so every time developer wants to use `kubectl` command they would take time to re-config parameter/config file point to new clusters again. We packed our source using npm so when new Developer join our team, they just need to own an account to access our npm organization repository and install whole tool with single command `npm -g install <@org_name/tool_name>` 
 <br/>
 
 ## NPM/PIP for packaged tools
