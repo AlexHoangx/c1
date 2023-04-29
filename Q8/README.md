@@ -21,4 +21,4 @@
 
 ## Memcached
 ---
-### In the other hand, Memcached is not a good choice if you have various of data type. Memcache focus on main purpose "cache" as its name, they don't support consistence as the store data in local disk. The advantage of Memcached is easier to implement and manage, simply focus on main function as a cache system and support multi-thread. Many POC project with single type of data I've used Memcache as a cache component to prevent complexity.
+### On the other hand, Memcached is not a good choice if you have various of data type. Memcache focus on main purpose "cache" as its name, they don't support consistence as the store data in local disk. The advantage of Memcached is easier to implement and manage, simply focus on main function as a cache system and support multi-thread. Many POC project with single type of data I've used Memcache as a cache component to prevent complexity.
