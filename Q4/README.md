@@ -1,6 +1,6 @@
 # Q4: Please describe a system that you had to develop to real paying users and what were some technical challenges you had to solve?
 
-### With experience serving thousand of user at same time in sale season, there's always hard time to calculate between minimum cost of scale, durability of our system. It takes too much cost to spend on scaling solution without knowing where the weakest point in our system could lead us to not have a efficiency system.
+### With experience serving thousand of users at the same time in sale season, there's always hard time to calculate between minimum cost of scale, durability of our system. It takes too much cost to spend on scaling solution without knowing where the weakest point in our system could lead us to not have a efficiency system.
 <br/>
 
 ### But here is few step for the preparation for the customers best experience (at minimum delay) when they use our site:
