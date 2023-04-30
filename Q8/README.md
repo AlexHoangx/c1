@@ -15,7 +15,7 @@
 
 ## Redis
 ---
-### Redis is well-know for kind of in-memory data store, a . Redis is very powerful and flexible with its consistence, easy horizontal scale with clustering and is a good choice for any kind of system. I've used Redis for web cached, 
+### Redis is well-know for kind of in-memory data store not only for cache. Redis is very powerful and flexible with its consistence, easy horizontal scale with clustering and is a good choice for any kind of system. I've build Redis cluster for web cached to reduce pressure on database when the company extended their business and have new income traffic from another country.
 
 </br>
 

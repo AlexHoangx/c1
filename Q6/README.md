@@ -1,3 +1,6 @@
 # Q6: Please describe a database or storage performance issue you had to resolve. What was the business logic, why was there a performance issue and how did you go about resolving it?
 
-## 
+From the past, I've a system using SQL Server as the Relational Database(RDBMS). It's use for a website for market and competitors research so it's low write and heavy risk. We build it as single node and using shared storage due to the budget, so the most issue we face when common issue we face is the run out of space. For the this issue mostly come from the two reasons for this issue:
+
+1. First, the physical drive which stores the database, or its transaction log has run out of space. To resolve this, examine that disk for any file(s) that are rapidly growing or any other problems. 
+2. Secondly, the database or the transaction log file has a set maximum file size. To resolve the case, simply increase the limit to allow database operation. Other reason could take place when tempdb is full to fix this we just restart the MSSQL service and restarting SQL will recreate tempdb from scratch after that it need to increase maximum size to prevent this happen in the future.

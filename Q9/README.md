@@ -2,14 +2,13 @@
 
 ## Topology
 ---
-![High level diagram](Q9/img/Crawling_system.svg)
-
-
+![High level diagram](img/q9-1.svg)
 </br>
 
 ## Business logic
 ---
-### Developers expect a pipeline that could help them setup NFT(Non Functional Test) and extendable to benchmark our website. They want to virtualize thousand of user access and use features of our page at the same time, verify that all of the features work well and test the durability of the system til it reaches limit. 
+Test team expect a pipeline that could help them setup NFT(Non Functional Test) and extendable to benchmark our website. They want to virtualize thousand of user access and use features of our page at the same time, verify that all of the features work well and test the durability of the system til it reaches limit. After that report of test case need to be publish on our Confluence to tracking perform of our system. When all of the test has been done, all resources initialized for the test need to be teardown to reduce unnecessary costs.
+![Logic flow](img/q9-2.svg)
 </br>
 
-### Platform/Tools/Framework: GKE, Java, Jmeter, Redis, Prometheus
+### Platform/Tools/Framework: GKE, Java, JMeter, Redis, InfluxDB, Prometheus, Confluence, Jira
