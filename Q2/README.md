@@ -1,9 +1,9 @@
 # Q2: Please describe a service or front end application that you created and how you made it secure and/or performance
 
-Normally every company must have at least one website where the customers are able to reach to understanding about that company. That's a part of business but also a challenge for engineer team, company's homepage is where people rate how professional and strong a company is (no big company has a bad homepage). With just 0.01s latency could make big different experience for customer and they can easy imagine how our business related to the company website. 
+Normally every company must have at least one website where the customers are able to reach to understanding about that company. That's a part of business but also a challenge for engineer team, company's homepage is where people rate how professional and strong a company is (no big company has a bad homepage). With just 0.01s latency could make big different experience for customer and they can easy imagine how our business is related to the company website. 
 <br/>
 
-To prevent all of incident could happen to company website and the best experience for our customer, this is few note that we mind to have the best practice:
+To prevent all of the incidents could happen to company website and the best experience for our customer, this is few note that we mind to have the best practice:
 
 | No| Performance               | Durability        | Security           |   |
 |---|---------------------------|-------------------|--------------------|---|
@@ -15,7 +15,7 @@ For example: about the homepage of 2 last companies. We use many different metho
 1. Performance:
 - We optimize every component in our system (code, database, cache, network, etc...)
 - Always functional/ non functional test before release
-- For any reason homepage must be able to handle high resources consumption. We use auto scaling in both way vertical(resources) and horizontal(instances)
+- For any reason homepage must be able to handle high resources consumption. We use auto scaling in both way vertically (resources) and horizontally (instances)
 - ...
 
 2. Durability:
