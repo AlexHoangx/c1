@@ -7,7 +7,7 @@
 
 ## Business logic
 ---
-Test team expect a pipeline that could help them setup NFT(Non Functional Test) and extendable to benchmark our website. They want to virtualize thousand of user access and use features of our page at the same time, verify that all of the features work well and test the durability of the system til it reaches limit. After that report of test case need to be publish on our Confluence to tracking perform of our system. When all of the test has been done, all resources initialized for the test need to be teardown to reduce unnecessary costs.
+The test team expected a pipeline that could help them setup NFT(Non Functional Test) and extendable to benchmark our website. They wanted to virtualize thousand of user access and use features of our page at the same time, verify that all of the features work well and test the durability of the system til it reaches limit. After that, report of test case needed to be published on our Confluence to track the performance of our system. When all of the test had been done, all resources initialized for the test needed to be teardown to reduce unnecessary costs.
 ![Logic flow](img/q9-2.svg)
 </br>
 
